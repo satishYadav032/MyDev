@@ -32,5 +32,10 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+        <types>
+        <members>Account.Concated_Contact_Names__c</members>
+        <name>CustomField</name>
+    </types>
+
     <version>64.0</version>
 </Package>
